@@ -1,0 +1,1 @@
+$(function(){$('body').tooltip({selector:'.vacancy-tooltip'});});
